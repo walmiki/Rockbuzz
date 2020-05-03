@@ -98,6 +98,10 @@ a:hover {
   color: #fff;
   text-align: center;
 }
+.blog-image {
+  width: 26.875rem;
+  height: 14.375rem;
+}
 
 /* contact section */
 /* .center-paragraph {
