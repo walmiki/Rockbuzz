@@ -100,10 +100,10 @@ a:hover {
 }
 
 /* contact section */
-.center-paragraph {
-  margin: auto;
-  width: 56.25rem;
-}
+/* .center-paragraph {
+  margin: 3% 10% 5%;
+  text-align: center;
+} */
 .btn-outline-dark {
   color: #000;
   border-color: #204051;
